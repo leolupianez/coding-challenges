@@ -7,7 +7,7 @@
   <h3 align="center">CodeWars Challenges</h3>
 
   <p align="center">
-    A repository with my completed CodeWars challenges (Kata).
+    A repository with CodeWars challenges (Katas) I have completed.
     <br />
     If you have not solved the challenge, I strongly encourage you not to look at the solutions until you have tried your best to complete it or at least taken the time to think about your own approaches.
     <br />
@@ -18,7 +18,8 @@
 </div>
 
 ## How It's Made:
-Every day I try to solve a CodeWars to sharpen my coding and problem-solving skills. 
+Every week I decide on a category of Katas (such as Array, String, Algorithms, etc) that I wish to work on for the week. During the week I solve at least one Kata a day in the category chosen to sharpen my coding and problem-solving skills in that specific category.
+
 ### Tech Used:
 [![JS][Javascript]][Javascript]
 
