@@ -4,6 +4,7 @@
 
 // Random tests go up to n = 500000.
 
+// Solution:
 function getDivisorsCnt(n){
     let count = 0;
     for(let i = 1; i <= n; i++){
